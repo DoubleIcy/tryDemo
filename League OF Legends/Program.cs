@@ -1,4 +1,5 @@
-﻿using System;
+﻿#define cheat
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,10 @@ using System.Text;
 using System.Threading;
 using System.IO;
 
-namespace Work
+
+using League_OF_Legends;
+using System.Data;
+namespace League_OF_Legends //Work
 {
     #region 一、枚举和结构体
 
@@ -1097,7 +1101,7 @@ namespace Work
         {
         }
         //通关动画
-        public static void PassAnimation()
+        private static void PassAnimation()
         {
             Console.Clear();
             ShowColor("YOU WIN!!", ConsoleColor.Black, ConsoleColor.Red, 25, 50);
@@ -1107,7 +1111,7 @@ namespace Work
             }
         }
         //结束谢幕动画
-        public static void FinishAnimation()
+        private static void FinishAnimation()
         {
             Console.Clear();
             ShowColor("Game over!!", ConsoleColor.Black, ConsoleColor.Red, 25, 50);
@@ -1120,7 +1124,7 @@ namespace Work
         /// <summary>
         /// 闪烁函数
         /// </summary>
-        public static void Twinkle()
+        private static void Twinkle()
         {
             //第一帧
             //生成随机颜色
@@ -1360,8 +1364,12 @@ namespace Work
             int num = int.Parse(Console.ReadLine());
             if (num >= 1 && num <= equips.Length)
             {
+#if (cheat)
                 //编号输入正确开始购买并判断玩家金钱是否购买装备
+                if (PlayerHero.Money != equips[num - 1].Emoney)
+#else
                 if (PlayerHero.Money >= equips[num - 1].Emoney)
+#endif
                 {
                     PlayerHero.Money -= equips[num - 1].Emoney;
                     //刷新玩家装备后的属性
@@ -1779,6 +1787,10 @@ namespace Work
 
         //主函数
         static void Main(string[] args)
+        {
+            Game();
+        }
+        static void Game()
         {
             #region  新增信息，功能及BUG备注
             /*新增信息: 1.新增地图七张，共十张  行号：392 （ 见//初始化游戏地图）

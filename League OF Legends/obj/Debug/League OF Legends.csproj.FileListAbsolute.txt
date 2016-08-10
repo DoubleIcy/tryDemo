@@ -33,3 +33,8 @@ G:\魔塔20140329\League OF Legends\obj\Debug\League OF Legends.exe
 G:\魔塔20140329\League OF Legends\obj\Debug\League OF Legends.pdb
 H:\C#理论实践\#C成果\魔塔20140329\League OF Legends\obj\Debug\League OF Legends.exe
 H:\C#理论实践\#C成果\魔塔20140329\League OF Legends\obj\Debug\League OF Legends.pdb
+K:\github\tryDemo\tryDemo\League OF Legends\obj\Debug\League OF Legends.exe
+K:\github\tryDemo\tryDemo\League OF Legends\obj\Debug\League OF Legends.pdb
+K:\github\tryDemo\tryDemo\League OF Legends\bin\Debug\League OF Legends.exe
+K:\github\tryDemo\tryDemo\League OF Legends\bin\Debug\League OF Legends.pdb
+K:\github\tryDemo\tryDemo\League OF Legends\obj\Debug\ResolveAssemblyReference.cache
