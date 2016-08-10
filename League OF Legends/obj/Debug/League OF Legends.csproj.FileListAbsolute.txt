@@ -1,0 +1,35 @@
+G:\编程大赛\新建文件夹\League OF Legends\League OF Legends\bin\Debug\League OF Legends.exe
+G:\编程大赛\新建文件夹\League OF Legends\League OF Legends\bin\Debug\League OF Legends.pdb
+G:\编程大赛\新建文件夹\League OF Legends\League OF Legends\obj\Debug\ResolveAssemblyReference.cache
+G:\编程大赛\新建文件夹\League OF Legends\League OF Legends\obj\Debug\League OF Legends.exe
+G:\编程大赛\新建文件夹\League OF Legends\League OF Legends\obj\Debug\League OF Legends.pdb
+C:\Users\Administrator\Desktop\整合项目\League OF Legends\League OF Legends\obj\Debug\League OF Legends.exe
+C:\Users\Administrator\Desktop\整合项目\League OF Legends\League OF Legends\obj\Debug\League OF Legends.pdb
+C:\Users\Administrator\Desktop\整合项目\League OF Legends\League OF Legends\bin\Debug\League OF Legends.exe
+C:\Users\Administrator\Desktop\整合项目\League OF Legends\League OF Legends\bin\Debug\League OF Legends.pdb
+C:\Users\Administrator\Desktop\整合项目\League OF Legends\League OF Legends\obj\Debug\ResolveAssemblyReference.cache
+H:\编程大赛\整合项目\League OF Legends\League OF Legends\obj\Debug\League OF Legends.exe
+H:\编程大赛\整合项目\League OF Legends\League OF Legends\obj\Debug\League OF Legends.pdb
+H:\编程大赛\整合项目\League OF Legends\League OF Legends\bin\Debug\League OF Legends.exe
+H:\编程大赛\整合项目\League OF Legends\League OF Legends\bin\Debug\League OF Legends.pdb
+H:\编程大赛\整合项目\League OF Legends\League OF Legends\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\liuxp\Desktop\League OF Legends20140329\League OF Legends\obj\Debug\League OF Legends.exe
+C:\Users\liuxp\Desktop\League OF Legends20140329\League OF Legends\obj\Debug\League OF Legends.pdb
+C:\Users\liuxp\Desktop\League OF Legends20140329\League OF Legends\bin\Debug\League OF Legends.exe
+C:\Users\liuxp\Desktop\League OF Legends20140329\League OF Legends\bin\Debug\League OF Legends.pdb
+C:\Users\liuxp\Desktop\League OF Legends20140329\League OF Legends\obj\Debug\ResolveAssemblyReference.cache
+D:\4 FTP\1项目\软件项目大赛\计应2班\League OF Legends20140329\League OF Legends\obj\Debug\League OF Legends.exe
+D:\4 FTP\1项目\软件项目大赛\计应2班\League OF Legends20140329\League OF Legends\obj\Debug\League OF Legends.pdb
+D:\4 FTP\1项目\软件项目大赛\计应2班\League OF Legends20140329\League OF Legends\bin\Debug\League OF Legends.exe
+D:\4 FTP\1项目\软件项目大赛\计应2班\League OF Legends20140329\League OF Legends\bin\Debug\League OF Legends.pdb
+D:\4 FTP\1项目\软件项目大赛\计应2班\League OF Legends20140329\League OF Legends\obj\Debug\ResolveAssemblyReference.cache
+E:\6备份\2013-2014\项目\大一项目\软件项目大赛\计应2班\League OF Legends20140329\League OF Legends\obj\Debug\League OF Legends.exe
+E:\6备份\2013-2014\项目\大一项目\软件项目大赛\计应2班\League OF Legends20140329\League OF Legends\obj\Debug\League OF Legends.pdb
+E:\美斯坦福公司卓越项目管理\2 C#Base\魔塔20140329\League OF Legends\obj\Debug\League OF Legends.exe
+E:\美斯坦福公司卓越项目管理\2 C#Base\魔塔20140329\League OF Legends\obj\Debug\League OF Legends.pdb
+C:\Documents and Settings\Administrator\桌面\魔塔20140329\League OF Legends\obj\Debug\League OF Legends.exe
+C:\Documents and Settings\Administrator\桌面\魔塔20140329\League OF Legends\obj\Debug\League OF Legends.pdb
+G:\魔塔20140329\League OF Legends\obj\Debug\League OF Legends.exe
+G:\魔塔20140329\League OF Legends\obj\Debug\League OF Legends.pdb
+H:\C#理论实践\#C成果\魔塔20140329\League OF Legends\obj\Debug\League OF Legends.exe
+H:\C#理论实践\#C成果\魔塔20140329\League OF Legends\obj\Debug\League OF Legends.pdb
